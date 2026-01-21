@@ -1,0 +1,27 @@
+The sum is 0.14 And the name is Smith
+Writing text in a file
+Name isSmithand sum is 0.13846153846153847
+The sum is 0.14 And the name is Smith
+Writing text in a file
+
+
+Discount is: 10.20 and age is : 13
+
+Last name:  Wabz
+Score is:  87
+Budget is:  650.0
+Discount is: 10.20 and age is : 13
+
+Last name:  Mary
+Score is:  90
+Budget is:  1500.0
+
+Discount is: 10.20 and age is : 13
+Last name:  Samson
+Score is:  78
+Budget is: 7650.00
+
+
+Last name:  Veronicah
+Score is:  98
+Budget is:  4356.0
