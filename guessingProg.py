@@ -11,19 +11,30 @@ bonus
 g
 
 """
+"""
 
 winning_number = 65
-won = []
 
-win = int(input("Guess any number: "))
-won.append (win)
+guess = int(input("Guess any number: "))
 
-if (won == winning_number):
-    print("YOU WINN!!!!")
-    if (won < winning_number):
-        print ("Number too low.")
-    else :
-        print ("Number too high.")
-
+if guess == winning_number:
+    print("YOU WIN!!!!")
+elif guess < winning_number:
+    print("Too low")
 else:
-    print ("Try again!")
+    print("Too high")
+
+"""
+
+winning_number = 65
+
+while True:
+    guess = int(input("Guess any number: "))
+
+    if guess == winning_number:
+        print("YOU WIN!!!!")
+        break
+    elif guess < winning_number:
+        print("Too low, try again.")
+    else:
+        print("Too high, try again.")
